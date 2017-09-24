@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Textbased_Game\Textbased_Game\bin\Debug\Textbased_Game.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Textbased_Game\Textbased_Game\bin\Debug\Textbased_Game.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Textbased_Game\Textbased_Game\bin\Debug\Textbased_Game.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Textbased_Game\Textbased_Game\obj\Debug\Textbased_Game.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Textbased_Game\Textbased_Game\obj\Debug\Textbased_Game.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Textbased_Game\Textbased_Game\obj\Debug\Textbased_Game.pdb
